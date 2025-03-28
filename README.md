@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasadwankhede
-- 👀 I’m interested in ...DATA,DATA ANALYSIS
-- 🌱 I’m currently learning ...DATA ANALYSIS - Power bi,SQL,Excel,Tableau,Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Getting insights from data,Data Visualization,
+- 🌱 I’m currently learning ...- Power bi,SQL,Excel,Tableau,Python
+- 💞️ I’m looking to collaborate on ...DATA ANALYSIS related projects
 - 📫 How to reach me ...prasaadwankhede1@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
